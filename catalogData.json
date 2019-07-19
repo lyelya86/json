@@ -1,37 +1,37 @@
 ﻿[
   {
-    " id_product " : 123 ,
-    " product_name " : " Ноутбук " ,
-    « цена » : 45600
+    "id_product": 123,
+    "product_name": "Ноутбук",
+    "price": 45600
   },
   {
-    " id_product " : 456 ,
-    " product_name " : " Мышка " ,
-    " цена " : 1000
+    "id_product": 456,
+    "product_name": "Мышка",
+    "price": 1000
   },
   {
-    " id_product " : 789 ,
-    " product_name " : " Монитор " ,
-    " цена " : 8000
+    "id_product": 789,
+    "product_name": "Монитор",
+    "price": 4000
   },
   {
-    " id_product " : 159 ,
-    " product_name " : " Клавиатура " ,
-    « цена » : 2000
+    "id_product": 147,
+    "product_name": "Клавиатура",
+    "price": 2000
   },
   {
-    " id_product " : 147 ,
-    " product_name " : " Роутер " ,
-    « цена » : 2000
+    "id_product": 258,
+    "product_name": "Роутер",
+    "price": 0000
   },
   {
-    " id_product " : 258 ,
-    " product_name " : " USB-камера " ,
-    " цена " : 5000
+    "id_product": 369,
+    "product_name": "USB-камера",
+    "price": 5000
   },
   {
-    " id_product " : 369 ,
-    " product_name " : " Gamepad " ,
-    " цена " : 10000
+    "id_product": 159,
+    "product_name": "Gamepad",
+    "price": 10000
   }
 ]
