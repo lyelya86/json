@@ -1,27 +1,27 @@
 [
   {
     "id_product": 123,
-    "product_name": "Ноутбук",
+    "product_name": "РќРѕСѓС‚Р±СѓРє",
     "price": 45600
   },
   {
     "id_product": 456,
-    "product_name": "Мышка",
+    "product_name": "РњС‹С€РєР°",
     "price": 1000
   },
   {
     "id_product": 789,
-    "product_name": "Дисплей",
+    "product_name": "РњРѕРЅРёС‚РѕСЂ",
     "price": 8000
   },
   {
     "id_product": 159,
-    "product_name": "Клавиатура",
+    "product_name": "РљР»Р°РІРёР°С‚СѓСЂР°",
     "price": 2000
   },
   {
     "id_product": 147,
-    "product_name": "Роутер",
+    "product_name": "Р РѕСѓС‚РµСЂ",
     "price": 2000
   },
   {
